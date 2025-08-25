@@ -4,7 +4,7 @@
 
 A comprehensive AI-powered job interview platform built with React, TypeScript, and modern web technologies. Features real-time video interviews, speech recognition, and automated feedback systems.
 
-**Live Demo**: [https://ai-interview-india-jobs-lmyz2vd6p.vercel.app](https://ai-interview-india-jobs-lmyz2vd6p.vercel.app)
+**Live Demo**: https://ai-interview-india-jobs-opal.vercel.app/
 **Developer**: [Tushar Prajapati](https://www.linkedin.com/in/tushar-prajapati-1ab5b3221/)
 
 ## Features
